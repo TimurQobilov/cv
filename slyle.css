@@ -1,1 +1,12 @@
 
+body { 
+    font-family: Arial, sans-serif; line-height: 1.6; margin: 0; padding: 0; background-color: #f4f4f4; }
+
+.container { 
+    max-width: 800px; margin: 0 auto; padding: 20px; background-color: #fff; }
+
+.profile-photo { 
+    width: 150px; height: 150px; border-radius: 50%; }
+        h1, h2 { color: #333; }
+        
+.section { margin-top: 20px; }
